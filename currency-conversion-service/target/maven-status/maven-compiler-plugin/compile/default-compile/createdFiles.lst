@@ -1,0 +1,4 @@
+com\moody\moon\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\moody\moon\microservices\currencyconversionservice\CurrencyConversionBean.class
+com\moody\moon\microservices\currencyconversionservice\CurrencyConversionController.class
+com\moody\moon\microservices\currencyconversionservice\CurrencyExchangeServiceProxy.class
