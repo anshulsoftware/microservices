@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>netflix-zuul-api-gateway-server</name>
-	<description>Demo project for Spring Boot</description>
+	<description>netflix-zuul-api-gateway-server</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
